@@ -1,0 +1,2 @@
+/usr/local/arm/4.8.3/bin/arm-linux-ar cr libjsoncpp.a  CMakeFiles/jsoncpp.dir/src/lib_json/json_value.cpp.obj CMakeFiles/jsoncpp.dir/src/lib_json/json_writer.cpp.obj CMakeFiles/jsoncpp.dir/src/lib_json/json_reader.cpp.obj
+/usr/local/arm/4.8.3/bin/arm-linux-ranlib libjsoncpp.a
